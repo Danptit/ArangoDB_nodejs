@@ -1,0 +1,22 @@
+{
+  "name": "db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simple.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danptit/ArangoDB_nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danptit/ArangoDB_nodejs/issues"
+  },
+  "homepage": "https://github.com/Danptit/ArangoDB_nodejs#readme",
+  "dependencies": {
+    "arangojs": "^6.4.0"
+  }
+}
